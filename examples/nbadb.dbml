@@ -1,0 +1,72 @@
+Project NBA_database {
+  database_type: 'SQLite'
+  Note: '''
+    # NBA Database
+    The data comes from a web-scaping project on box scores from the 2021-22 NBA session.
+  '''
+}
+Table game as G {
+  game_id varchar [pk]
+  game_date date
+  OT int
+  note: "Data specific to each NBA game, not to team or player"
+}
+Table players as P {
+  player varchar [pk]
+  player_id varchar
+  note: "Data specific to each player not a team or game"
+}
+Table team_game as TG {
+  Team_Abbrev varchar [pk]
+  Opponent_Abbrev varchar
+  game_id varchar [pk]
+  H_A int
+  Team_Score int
+  Team_pace float
+  Team_efg_pct float
+  Team_tov_pct float
+  Team_orb_pct float
+  Team_ft_rate float
+  Team_off_rtg float 
+  note: "Team level stats for each individual game"
+}
+Table player_game as PG{
+      game_id varchar [pk]
+      player_id varchar [pk]
+      Inactives int
+      Opponent_Score oint
+      Opponent_pace float
+       Opponent_efg_pct float
+       Opponent_tov_pct float
+       Opponent_orb_pct float
+       Opponent_ft_rate float
+       Opponent_off_rtg float
+       starter int
+       mp int
+       fg int
+       fga int
+       fg_pct int
+       fg3 int
+       fg3a int
+       fg3_pct int
+       ft int
+       fta int
+       ft_pct int
+       orb int
+       drb int
+       trb int
+       ast int
+       stl int
+       blk int
+       tov int
+       pf int
+       pts int
+       plus_minus int
+       did_not_play int
+       is_inactive int
+  note: "Player level stats for each individual game"
+}
+Ref: PG.game_id > G.game_id  
+Ref: G.game_id  > TG.game_id
+Ref: PG.game_id > TG.game_id  
+Ref: PG.player_id > P.player_id

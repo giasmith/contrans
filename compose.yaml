@@ -1,0 +1,34 @@
+services:
+    # what image to run
+    jupyter:
+        image: contrans
+        volumes:
+            - ./:/contrans
+        env_file:
+            - .env
+        ports:
+            - "8888:8888"
+        networks: 
+            - dbnetwork
+    
+    postgres:
+        # go to docker hub and download the latest image 
+        image: postgres:latest
+        env_file:
+            - .env
+        volumes:
+            - postgresdata:/var/lib/postgressql/data
+        ports: 
+            - "5432:5432"
+        networks:
+            #needed to connect jupyterlab and postgres
+            - dbnetwork
+        
+    
+volumes:
+    # what volumes to attach
+    postgresdata:
+    
+networks:
+    # how do we want one port to match the other for containers to communicate with each other
+    dbnetwork:

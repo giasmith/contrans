@@ -1,0 +1,75 @@
+Project congress_database {
+  database_type: 'SQLite'
+  Note: '''
+    # Congress Transparency
+    The data comes from voteview.org and propublica.org.
+  '''
+}
+Table members as m{
+  game_id varchar [pk]
+  game_date date
+  OT int
+  note: "Data specific members of congress"
+}
+Table rolecalls as r {
+  player varchar [pk]
+  player_id varchar
+  note: "Data specific the topic and result of roll call votes, overall"
+}
+Table member_vote as v {
+  Team_Abbrev varchar [pk]
+  Opponent_Abbrev varchar
+  game_id varchar [pk]
+  H_A int
+  Team_Score int
+  Team_pace float
+  Team_efg_pct float
+  Team_tov_pct float
+  Team_orb_pct float
+  Team_ft_rate float
+  Team_off_rtg float 
+  note: "Individual votes of each member"
+}
+Table player_game as PG{
+      game_id varchar [pk]
+      player_id varchar [pk]
+      Team_Abbrev varchar
+      Inactives int
+      Opponent_Score oint
+      Opponent_pace float
+       Opponent_efg_pct float
+       Opponent_tov_pct float
+       Opponent_orb_pct float
+       Opponent_ft_rate float
+       Opponent_off_rtg float
+       starter int
+       mp int
+       fg int
+       fga int
+       fg_pct int
+       fg3 int
+       fg3a int
+       fg3_pct int
+       ft int
+       fta int
+       ft_pct int
+       orb int
+       drb int
+       trb int
+       ast int
+       stl int
+       blk int
+       tov int
+       pf int
+       pts int
+       plus_minus int
+       did_not_play int
+       is_inactive int
+  note: "Player level stats for each individual game"
+}
+
+Ref: PG.game_id > G.game_id  
+Ref: G.game_id  > TG.game_id
+Ref: PG.Team_Abbrev > TG.Team_Abbrev
+Ref: PG.game_id > TG.game_id  
+Ref: PG.player_id > P.player_id

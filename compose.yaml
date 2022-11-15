@@ -24,10 +24,21 @@ services:
             #needed to connect jupyterlab and postgres
             - dbnetwork
         
-    
+    mongo:
+        image: mongo:latest
+        env_file:
+            - .env
+        volumes:
+            - mongodata2:/data/db
+            - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+        ports:
+            - "27017:27017"
+        networks:
+            - dbnetwork
 volumes:
     # what volumes to attach
     postgresdata:
+    mongodata2:
     
 networks:
     # how do we want one port to match the other for containers to communicate with each other

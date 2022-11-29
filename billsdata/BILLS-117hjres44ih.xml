@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="HD0C31A91F03940F18B530CE1E2AE47F6" public-private="public" resolution-type="constitutional-amendment" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 44 IH: Proposing an amendment to the Constitution of the United States regarding health care.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 44</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210422">April 22, 2021</action-date><action-desc><sponsor name-id="M001143">Ms. McCollum</sponsor> (for herself, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="J000298">Ms. Jayapal</cosponsor>, and <cosponsor name-id="O000173">Ms. Omar</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Proposing an amendment to the Constitution of the United States regarding health care.</official-title></form><resolution-body style="traditional" id="H9ED4740219CC4116830EC5FA08A46D95"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H42A5A520273D4643B0ADE75BABC9BEE3"><enum/><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification:</text><quoted-block display-inline="no-display-inline" id="H493667FC41774364A3B53463BBA78388" style="traditional"><constitution-article id="H0CD6845A28C64CC7B2082EA5A6DE05DE"><enum> —</enum><section id="HFCF4E83C4EFF437D9FF26545473B964E" section-type="section-one"><enum>1.</enum><text display-inline="yes-display-inline">Health care, including care to prevent and treat illness, is the right of the people and necessary to ensure the strength of the Nation.</text></section><section display-inline="no-display-inline" id="H81031AB73E6C46D39F72BC782CE655AB" section-type="section-one"><enum>2.</enum><text display-inline="yes-display-inline">The Congress shall have power to enforce and implement this article by appropriate legislation.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section></resolution-body></resolution> 
+

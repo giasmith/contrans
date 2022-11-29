@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H872D8E22A07D4F859869DDFEE6CDF769" public-private="public" resolution-type="constitutional-amendment" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 47 IH: Proposing an amendment to the Constitution of the United States to require three-fifths majorities for bills increasing taxes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 47</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210520">May 20, 2021</action-date><action-desc><sponsor name-id="G000590">Mr. Green of Tennessee</sponsor> submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Proposing an amendment to the Constitution of the United States to require three-fifths majorities for bills increasing taxes.</official-title></form><resolution-body style="constitutional-amendment" id="HC5398F3AB8864082BB320B0391C4152D"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H42886DC488754706B08AAAFF0CA78D23"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification: </text><quoted-block style="traditional" id="HEF881A6302A440F6BFD146F45E201252" display-inline="no-display-inline"><constitution-article id="H1234"><enum> —</enum><section id="H88DAFDADA12943D69760177F42B77A8A" section-type="section-one"><enum>1.</enum><text display-inline="yes-display-inline">Any bill to levy a new tax or increase the rate or base of any tax may pass only by a three-fifths majority of the whole number of each House of Congress. </text></section><section id="H2648BB5DF42F452090BCF828A76A47EB" display-inline="no-display-inline" section-type="section-one"><enum>2.</enum><text display-inline="yes-display-inline">All votes taken by the House of Representatives or the Senate under this article shall be determined by yeas and nays and the names of persons voting for and against shall be entered on the Journal of each House respectively.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section></resolution-body></resolution> 
+

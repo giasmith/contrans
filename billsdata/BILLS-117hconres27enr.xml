@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HAEFD28F734D14D8884AF215934CE073F" public-private="public" resolution-stage="Enrolled-Bill" resolution-type="house-concurrent" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HCON 27 ENR: Permitting the remains of the late United States Capitol Police Officer William F. Evans to lie in honor in the rotunda of the Capitol.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-04-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress> 
+<session display="yes">At the First Session</session><enrolled-dateline>Begun and held at the City of Washington on Sunday, the third day of January, two thousand and twenty-one</enrolled-dateline> 
+<legis-num>H. CON. RES. 27</legis-num> 
+<current-chamber display="no"></current-chamber>
+<action>
+<action-date date="20210412">April 12, 2021</action-date>
+<action-desc>Agreed to</action-desc>
+</action> 
+<legis-type>CONCURRENT RESOLUTION</legis-type> 
+<official-title display="no">Permitting the remains of the late United States Capitol Police Officer William F. Evans to lie in honor in the rotunda of the Capitol.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HC3A80C1079A44BE9A079E54A3EAB5099"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H37A1571FD8554DD084F26DA040DC27EC"><text display-inline="yes-display-inline">That the remains of the late United States Capitol Police Officer William F. Evans shall be permitted to lie in honor in the rotunda of the Capitol on April 13, 2021, and the Architect of the Capitol, under the direction of the Speaker of the House of Representatives and the President pro tempore of the Senate, shall take all necessary steps for the accomplishment of that purpose. </text></section> </resolution-body> <attestation><attestation-group><role>Clerk of the House of Representatives.</role></attestation-group><attestation-group><role>Secretary of the Senate.</role></attestation-group></attestation> </resolution> 
+

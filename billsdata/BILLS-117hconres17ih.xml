@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H2C268D1EF8FE4BFBA22C38C741A6C2EC" public-private="public" resolution-stage="Introduced-in-House" resolution-type="house-concurrent" star-print="no-star-print" key="H">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HCON 17 IH: Expressing the sense of Congress that the President should do everything in his power to achieve resolution and repayment of the defaulted sovereign debt of the People’s Republic of China held by 20,000 families in the United States represented by the American Bondholders Foundation, LLC.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IV</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num>H. CON. RES. 17</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date>February 18, 2021</action-date>
+<action-desc><sponsor name-id="G000590">Mr. Green of Tennessee</sponsor> submitted the following concurrent resolution; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>CONCURRENT RESOLUTION</legis-type>
+<official-title display="yes">Expressing the sense of Congress that the President should do everything in his power to achieve resolution and repayment of the defaulted sovereign debt of the People’s Republic of China held by 20,000 families in the United States represented by the American Bondholders Foundation, LLC.</official-title>
+</form>
+<preamble>
+<whereas><text>Whereas sovereign debt obligations (in this preamble referred to as “bonds”) of the Government of the People’s Republic of China were offered and sold in United States capital markets;</text></whereas> <whereas><text>Whereas the bonds constitute full faith and credit sovereign obligations of the internationally recognized Government of the People’s Republic of China; </text></whereas>
+<whereas><text>Whereas the People’s Republic of China subsequently defaulted on those bonds; </text></whereas> <whereas><text>Whereas the bonds constitute an unpaid general obligation of the Government of the People’s Republic of China;</text></whereas>
+<whereas><text> Whereas, under the successor government doctrine of settled international law (relating to establishing the continuity of obligations among successor governments), the repayment obligation for the bonds is the obligation of the Government of the People’s Republic of China; </text></whereas> <whereas><text>Whereas the Government of the People’s Republic of China continues to refuse to repay the bonds held by United States citizens and has officially repudiated the debts, which is a clear violation of United States law, international law, and the rules and regulations of the World Bank and the International Monetary Fund; </text></whereas>
+<whereas><text>Whereas the Government of the People’s Republic of China honored repayment of the exact same bonds held by citizens of the United Kingdom while rejecting the claims of citizens of the United States; </text></whereas> <whereas><text>Whereas, since the normalization of bilateral relations between the United States and the People’s Republic of China in the 1970s, the United States has shown good will to the People’s Republic of China by focusing on an expansion of bilateral trade while deferring discussion of repayment of the People’s Republic of China’s defaulted national debt; </text></whereas>
+<whereas><text>Whereas, under standard legal principles, the People’s Republic of China’s defaulted sovereign gold debt has been accumulating compound interest for more than 82 years and is estimated to exceed the total amount of the United States national debt to the People’s Republic of China; </text></whereas> <whereas><text>Whereas, as representative of United States bondholders who own the People’s Republic of China’s defaulted sovereign gold bonds, American Bondholders Foundation, LLC, has proposed using the People’s Republic of China’s obligations as payment for the United States national debt to the People’s Republic of China; </text></whereas>
+<whereas><text>Whereas the Government of the People’s Republic of China covered up the outbreak of the coronavirus disease 2019 (commonly referred to as “COVID–19”) during its early stages, resulting in a global pandemic and more than $2,000,000,000,000 in financial damage to the United States; and </text></whereas> <whereas><text>Whereas the United States Government pays its debts, and so should the Government of the People’s Republic of China: Now, therefore, be it</text></whereas></preamble>
+<resolution-body style="traditional" id="H27933AAE3ED34F559654E9DF04EA1DD0">
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H40C973B907C547EC9AE16BBF39D4ECC4"><enum/><text>That it is the sense of Congress that the President should do everything in his power to achieve resolution and repayment of the defaulted sovereign debt of the People’s Republic of China held by 20,000 families in the United States who are represented by the American Bondholders Foundation, LLC, for the benefit of the bondholders and the people of the United States.</text></section> </resolution-body> </resolution> 
+

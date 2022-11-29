@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H1EFA0FEC93444E5DAB6A17C775FDA8A9" public-private="public" resolution-type="house-joint" star-print="no-star-print" key="H">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 20 IH: Proposing an amendment to the Constitution of the United States recognizing and securing the fundamental right to life, liberty, and property, which includes housing, health care, education, and nutrition.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num display="yes">H. J. RES. 20</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20210128">January 28, 2021</action-date>
+<action-desc><sponsor name-id="A000370">Ms. Adams</sponsor> (for herself, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, and <cosponsor name-id="O000173">Ms. Omar</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>JOINT RESOLUTION</legis-type>
+<official-title display="yes">Proposing an amendment to the Constitution of the United States recognizing and securing the fundamental right to life, liberty, and property, which includes housing, health care, education, and nutrition.</official-title>
+</form>
+<resolution-body style="constitutional-amendment" id="HE6D7B8A36B8940A1807F3BF34E87F528">
+<section display-inline="yes-display-inline" id="H59747F4E4E9547A4A9E4653DEC578FDF" section-type="undesignated-section"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification:</text> <quoted-block display-inline="no-display-inline" id="H2F4ADD14F383482A8EF37F35A6DA8C3F" style="OLC"><constitution-article id="H1DDFD0A929874BE2980E5C76CEE800FB"><enum> —</enum> <section id="HB5356C1394D240908660209318A405DE" section-type="undesignated-section"><text display-inline="yes-display-inline">The right of any person to affordable housing, cost-effective health care, quality education, and adequate nutrition shall not be denied or abridged by the United States or any State, and the Congress shall have power to enforce and implement this article by appropriate legislation.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</resolution-body>
+</resolution> 
+
+

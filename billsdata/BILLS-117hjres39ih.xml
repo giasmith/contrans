@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H60013C913B4343CF978965F303B99023" public-private="public" resolution-type="constitutional-amendment" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 39 IH: Proposing an amendment to the Constitution of the United States to require that the Supreme Court be composed of not more than nine justices.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 39</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210413">April 13, 2021</action-date><action-desc><sponsor name-id="G000579">Mr. Gallagher</sponsor> (for himself, <cosponsor name-id="J000020">Mr. Jacobs of New York</cosponsor>, <cosponsor name-id="B001274">Mr. Brooks</cosponsor>, <cosponsor name-id="B001305">Mr. Budd</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="B001297">Mr. Buck</cosponsor>, and <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Proposing an amendment to the Constitution of the United States to require that the Supreme Court be composed of not more than nine justices.</official-title></form><resolution-body style="constitutional-amendment" id="H426348987511408B84A62A28883671F2"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H77C5670FCB364AF68262F730D010C71E"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification: </text><quoted-block style="traditional" id="HE41CAC4ECBBD4381B35DDC9B91CEBB0A" display-inline="no-display-inline"><constitution-article id="H1234"><enum> —</enum><section id="H34DFD2A921014C5299F82477D1719482" section-type="section-one"><enum>1.</enum><text display-inline="yes-display-inline">The Supreme Court shall be composed of not more than nine justices.</text></section><section id="HE5C93000FFA4411FB213239A8E303C09" section-type="section-one"><enum>2.</enum><text display-inline="yes-display-inline">The Congress shall have the power to enforce this article by appropriate legislation. </text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section></resolution-body></resolution> 
+

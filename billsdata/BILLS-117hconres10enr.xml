@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H33BAF3D6520240AC944175E33601FE07" public-private="public" resolution-stage="Enrolled-Bill" resolution-type="house-concurrent" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HCON 10 ENR: Permitting the remains of the late United States Capitol Police Officer Brian D. Sicknick to lie in honor in the rotunda of the Capitol.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress> 
+<session display="yes">At the First Session</session><enrolled-dateline>Begun and held at the City of Washington on Sunday, the third day of January, two thousand and twenty-one</enrolled-dateline> 
+<legis-num>H. CON. RES. 10</legis-num> 
+<current-chamber display="no"></current-chamber>
+<action>
+<action-date date="20210201">February 1, 2021</action-date>
+<action-desc>Agreed to</action-desc>
+</action> 
+<legis-type>CONCURRENT RESOLUTION</legis-type> 
+<official-title display="no">Permitting the remains of the late United States Capitol Police Officer Brian D. Sicknick to lie in honor in the rotunda of the Capitol.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H51088C6834D145C58860BC1F23D1FBE5"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H61D6C52F48574D7992430B2BA7744C4F"><text display-inline="yes-display-inline">That the remains of the late United States Capitol Police Officer Brian D. Sicknick shall be permitted to lie in honor in the rotunda of the Capitol from February 2, 2021, through February 3, 2021, and the Architect of the Capitol, under the direction of the Speaker of the House of Representatives and the President pro tempore of the Senate, shall take all necessary steps for the accomplishment of that purpose.</text></section> </resolution-body> <attestation><attestation-group><role>Clerk of the House of Representatives.</role></attestation-group><attestation-group><role>Secretary of the Senate.</role></attestation-group></attestation> </resolution> 
+

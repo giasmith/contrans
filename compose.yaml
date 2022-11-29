@@ -8,6 +8,7 @@ services:
             - .env
         ports:
             - "8888:8888"
+            - "8050:8050"
         networks: 
             - dbnetwork
     

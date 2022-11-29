@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H6EAD4449AA0B49A59046F16BC20EA2A3" public-private="public" resolution-type="house-joint" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 25 IH: Disapproving the action of the District of Columbia Council in approving the Minor Consent for Vaccinations Amendment Act of 2020.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 25</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210211">February 11, 2021</action-date><action-desc><sponsor name-id="C001115">Mr. Cloud</sponsor> (for himself, <cosponsor name-id="P000609">Mr. Palmer</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="J000289">Mr. Jordan</cosponsor>, and <cosponsor name-id="B001291">Mr. Babin</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Disapproving the action of the District of Columbia Council in approving the Minor Consent for Vaccinations Amendment Act of 2020.</official-title></form><resolution-body style="traditional" id="HDCED73F0ABBA4F3FA656AD02746CB0B8"><section display-inline="yes-display-inline" section-type="undesignated-section" id="HFD4E8409F5F042D3ADE2E29D75025450" commented="no"><enum/><text display-inline="yes-display-inline">That the Congress disapproves of the action of the District of Columbia Council described as follows: The Minor Consent for Vaccinations Amendment Act of 2020 (D.C. Act 23–532), enacted by the Council of the District of Columbia on December 23, 2020, and transmitted to Congress pursuant to section 602(c)(1) of the District of Columbia Home Rule Act on February 1, 2021.</text></section></resolution-body></resolution> 
+

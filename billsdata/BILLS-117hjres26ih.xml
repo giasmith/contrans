@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="HA0E88EF4353E436C8EBBF840A21CF305" public-private="public" resolution-type="house-joint" star-print="no-star-print" key="H">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 26 IH: Proposing an amendment to the Constitution of the United States requiring that the Federal budget be balanced.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num display="yes">H. J. RES. 26</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20210218">February 18, 2021</action-date>
+<action-desc><sponsor name-id="L000583">Mr. Loudermilk</sponsor> (for himself, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>, <cosponsor name-id="H001071">Mr. Hice of Georgia</cosponsor>, <cosponsor name-id="H001082">Mr. Hern</cosponsor>, <cosponsor name-id="G000568">Mr. Griffith</cosponsor>, and <cosponsor name-id="M001195">Mr. Mooney</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>JOINT RESOLUTION</legis-type>
+<official-title display="yes">Proposing an amendment to the Constitution of the United States requiring that the Federal budget be balanced.</official-title>
+</form>
+<resolution-body style="constitutional-amendment" id="H3732CA7891004E60AD4B1BCB00D36ECA">
+<section display-inline="yes-display-inline" id="H9FC382DF680A47A58E4DBE60F3FBFF31" section-type="undesignated-section"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States:</text> <quoted-block id="HBBE0C9CF5CA0484AA407503522C647FF" style="constitutional-amendment"><constitution-article id="HBDAA91829F2846D7AE3795FCFA06CFFC"><enum> —</enum> <section id="HD8B96E7440EC4D3F84F1EDF9F62AA92C" section-type="section-one"><enum>1.</enum><text>Total outlays for any fiscal year shall not exceed total receipts for that fiscal year.</text></section>
+<section id="H647852ACB169403F93A2103254C4BDB0" section-type="section-one"><enum>2.</enum><text>Total outlays shall not exceed 18 percent of the gross domestic product of the United States for the calendar year ending prior to the beginning of such fiscal year.</text></section> <section id="H5442EB9962DB43669C5F67ABD6F4CAEE" section-type="section-one"><enum>3.</enum><text>The Congress may provide for suspension of the limitations imposed by section 1 or 2 of this article for any fiscal year for which two-thirds of the whole number of each House shall provide, by a rollcall vote, for a specific excess of outlays over receipts or over 18 percent of the gross domestic product of the United States for the calendar year ending prior to the beginning of such fiscal year.</text></section>
+<section id="HCBBBB759D5DD4D08ABFAF866F11D75BA" section-type="section-one"><enum>4.</enum><text>Any bill to levy a new tax or increase the rate of any tax shall not become law unless approved by two-thirds of the whole number of each House of Congress by a rollcall vote.</text></section> <section id="H6B43F58F50FD4406AD8BF80143D2A859" section-type="section-one"><enum>5.</enum><text>The limit on the debt of the United States held by the public shall not be increased, unless two-thirds of the whole number of each House of Congress shall provide for such an increase by a rollcall vote.</text></section>
+<section id="HDC1D5E0ED10C466FA9C110BDEA69F4A4" section-type="section-one"><enum>6.</enum><text>Any Member of Congress shall have standing and a cause of action to seek judicial enforcement of this article, when authorized to do so by a petition signed by one-third of the Members of either House of Congress. No court of the United States or of any State shall order any increase in revenue to enforce this article.</text></section> <section id="H36AFDCD3435D475A8659E69774CF08D4" section-type="section-one"><enum>7.</enum><text>The Congress shall have the power to enforce this article by appropriate legislation.</text></section>
+<section id="HDD6BD514F2994E8088953450155602F8" section-type="section-one"><enum>8.</enum><text>Total receipts shall include all receipts of the United States except those derived from borrowing. Total outlays shall include all outlays of the United States except those for repayment of debt principal.</text></section> <section id="HFCF3B1AC22F14887963C8745DA9AB8F1" section-type="section-one"><enum>9.</enum><text display-inline="yes-display-inline">This article shall become effective beginning with the tenth fiscal year commencing after its ratification by the legislatures of three-fourths of the several States.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</resolution-body>
+</resolution> 
+
+

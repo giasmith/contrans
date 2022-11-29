@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H2E34BC51689E47659AD7A4E6EA7CEEA6" public-private="public" resolution-type="house-concurrent" star-print="no-star-print" key="H">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HCON 40 IH: Recognizing the victims of the Port Chicago explosion of July 17, 1944, the 77th anniversary of the greatest homeland loss of life of World War II, and exonerating the 50 African-American sailors unjustly court-martialed by the Navy.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IV</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num display="yes">H. CON. RES. 40</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20210716">July 16, 2021</action-date>
+<action-desc><sponsor name-id="D000623">Mr. DeSaulnier</sponsor> (for himself and <cosponsor name-id="L000551">Ms. Lee of California</cosponsor>) submitted the following concurrent resolution; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>CONCURRENT RESOLUTION</legis-type>
+<official-title display="yes">Recognizing the victims of the Port Chicago explosion of July 17, 1944, the 77th anniversary of the greatest homeland loss of life of World War II, and exonerating the 50 African-American sailors unjustly court-martialed by the Navy.</official-title>
+</form>
+<preamble>
+<whereas><text>Whereas the Port Chicago Naval Magazine in Contra Costa County, California, was a vital supply facility for the Navy during World War II, shipping ordinance for use in the Pacific Theater;</text></whereas> <whereas><text>Whereas, under the rules governing the Navy at the time, the Port Chicago Naval Magazine was operated as a segregated facility in which undertrained and poorly equipped African-American sailors, under the supervision of White officers, exclusively conducted the hazardous task of loading munitions aboard ships;</text></whereas>
+<whereas><text>Whereas there had been numerous complaints and warnings about the unsafe nature of the loading operations, including the conduct of contests by White officers to achieve the most rapid loading of ships despite the inherent dangers involved in such actions;</text></whereas> <whereas><text>Whereas, on the night of July 17, 1944, the Port Chicago Naval Magazine and much of the town of Port Chicago were destroyed by a cataclysmic explosion that killed 320 men, 202 of whom were African-American enlisted men;</text></whereas>
+<whereas><text>Whereas these losses on a single night represented one-fifth of all African-American naval casualties during World War II;</text></whereas> <whereas><text>Whereas, following the catastrophe, none of the African-American survivors was provided survivor leave or other recuperative services provided to the White personnel, including the officers;</text></whereas>
+<whereas><text>Whereas African-American survivors of the explosion were ordered back to the Port Chicago site to conduct cleanup operations;</text></whereas> <whereas><text>Whereas, on August 9, 1944, with no cause having been determined for the explosion and no additional training having been provided to the African-American loaders, 328 men from three divisions were ordered to the loading pier at the nearby Mare Island, which served as the Port Chicago replacement facility;</text></whereas>
+<whereas><text>Whereas many of the men expressed concern about the inadequacy of safety procedures and training, leading to 258 being arrested and confined for three days on a large barge tiered to the pier;</text></whereas> <whereas><text>Whereas the confined sailors were threatened with prosecution and potential execution, leading 208 to return to work;</text></whereas>
+<whereas><text>Whereas the 50 who refused to return to loading operations were subjected to the largest mass mutiny trial in naval history, which resulted, on October 24, 1944, in a conviction on the charge of mutiny and a sentence of up to 15 years imprisonment and dishonorable discharge from the Navy;</text></whereas> <whereas><text>Whereas, after appeals and widespread protests in January 1946, which included the participation of future Supreme Court Justice Thurgood Marshall and former First Lady Eleanor Roosevelt, the Port Chicago men were released from prison but their convictions remained on their records;</text></whereas>
+<whereas><text>Whereas, in a 1994 investigation, the United States Navy stated that <quote>there is no doubt that racial prejudice was responsible for the posting of only African-American enlisted personnel to loading divisions at Port Chicago</quote>;</text></whereas> <whereas><text>Whereas the unfairness of the Port Chicago mutiny prosecution would ultimately serve as one of the catalysts for the 1948 Executive Order requiring desegregation of the Armed Services;</text></whereas>
+<whereas><text>Whereas the Committee on Natural Resources of the House of Representatives conducted hearings on the Port Chicago case in 1993 and, in 1994, Congress, on a bipartisan basis, passed legislation creating the Port Chicago National Memorial as a feature of the National Park Service, including plaques commemorating those who lost their lives at the site in 1944;</text></whereas> <whereas><text>Whereas, in 1999, a pardon was granted to one of the few surviving members of the Port Chicago 50, Freddie Meeks, by President William Clinton following a thorough review of the case;</text></whereas>
+<whereas><text>Whereas, since 1999, substantial legal, academic, and journalistic inquiry has documented the inherent racial motivation behind the operations at Port Chicago and the prosecution of the Port Chicago 50;</text></whereas> <whereas><text>Whereas, on December 16, 2015, the Secretary of the Navy, the Honorable Ray Mabus, wrote to the President <quote>strongly support[ing] executive action in favor of the 49 remaining Sailors with general court-martial convictions or the 207 with summary court-martial convictions … in light of the well documented challenges associated with uniformed service by African Americans during that era.</quote>;</text></whereas>
+<whereas><text>Whereas, in 2000, Congress approved S.J. Res. 26 to posthumously exonerate Captain Charles B. McVay III, captain of the USS Indianapolis, for his wrongful court martial, and President William Clinton signed that resolution on October 30, 2000;</text></whereas> <whereas><text>Whereas the language of that resolution was enacted as section 545 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (<external-xref legal-doc="public-law" parsable-cite="pl/106/398">Public Law 106–398</external-xref>), including language that Captain McVay’s military record <quote>should now reflect that he is exonerated for the loss of the USS Indianapolis and so many of her crew</quote>; and</text></whereas>
+<whereas><text>Whereas, on July 17, 2021, the Nation will mark the 77th anniversary of the Port Chicago disaster, and the unjust and racially motivated convictions remain on the records of the Port Chicago 50: Now, therefore, be it</text></whereas></preamble> <resolution-body style="traditional" id="HFB391D5768D84B5A8906B105BB319E1A"> <section display-inline="yes-display-inline" section-type="undesignated-section" id="H6AF8114FC96C4A0783A1F3855218EC28"><enum/><text>That Congress—</text>
+<paragraph id="HDC0A091762A54983BBF450D8CDAFB9C8"><enum>(1)</enum><text>recognizes the service and sacrifice of those who served and perished at Port Chicago during World War II;</text></paragraph> <paragraph commented="no" id="HD5AA96220EE448C6AFD99D0E07CAEFB0"><enum>(2)</enum><text>hereby and forever exonerates the Port Chicago sailors of the charge of mutiny against the United States and any and all other charges brought against them in the aftermath of the July 17, 1944, explosion;</text></paragraph>
+<paragraph id="H7984A9FE584443E289E82C5805D69863"><enum>(3)</enum><text>upgrades the general and summary discharges issued to each of the Port Chicago sailors to honorable discharges; and</text></paragraph> <paragraph id="HA2259A4E5FF247748DA999F0ED6A33FB"><enum>(4)</enum><text>directs the Secretary of the Navy to place a letter attesting to these actions in the file of each of the Port Chicago sailors and to notify any surviving family members of these actions.</text></paragraph></section>
+</resolution-body>
+</resolution> 
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H30D3DE22823043D59BE463222D7C97AE" public-private="public" resolution-type="constitutional-amendment" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 51 IH: Proposing an amendment to the Constitution of the United States giving Congress power to prohibit the physical desecration of the flag of the United States.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-06-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 51</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210614">June 14, 2021</action-date><action-desc><sponsor name-id="W000809">Mr. Womack</sponsor> (for himself, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>, <cosponsor name-id="B001305">Mr. Budd</cosponsor>, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, and <cosponsor name-id="C001087">Mr. Crawford</cosponsor>) submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Proposing an amendment to the Constitution of the United States giving Congress power to prohibit the physical desecration of the flag of the United States.</official-title></form><resolution-body style="constitutional-amendment" id="HB5DAFBA74BB140F3A512604308A1AFEC"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H86E5867AA2154E8EB1DA178CEDA5F89A"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification: </text><quoted-block style="traditional" id="H4FA682764ABB46D6B139C4296D9305D2" display-inline="no-display-inline"><constitution-article id="H1234"><enum> —</enum><section id="HCB67F6027DDC4F3AA2268BC77F428970" section-type="undesignated-section"><text display-inline="no-display-inline">The Congress shall have power to prohibit the physical desecration of the flag of the United States.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section></resolution-body></resolution> 
+

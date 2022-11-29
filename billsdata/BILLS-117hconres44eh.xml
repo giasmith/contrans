@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Engrossed-in-House" dms-id="HDF3791FF954F4B20B39FE069A710E119" public-private="public" resolution-type="house-concurrent" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HCON 44 EH: Fiscal State of the Nation Resolution</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="yes">117th CONGRESS</congress> 
+<session display="yes">1st Session</session> 
+<legis-num display="yes">H. CON. RES. 44</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>CONCURRENT RESOLUTION</legis-type> 
+<official-title display="no">Providing for a joint hearing of the Committees on the Budget of the House of Representatives and the Senate to receive a presentation from the Comptroller General of the United States regarding the audited financial statement of the executive branch.</official-title> 
+</form> 
+<resolution-body style="OLC" id="H9277072E2DEC488CAB2A60265163A2F3"> 
+<section id="HFD5296A410C449BF8A1004029CE73660" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This resolution may be cited as the <quote><short-title>Fiscal State of the Nation Resolution</short-title></quote>.</text></section> <section id="H6FC1B0DFF6A748D99443B50D4E1AD94B"><enum>2.</enum><header>Annual joint hearing of Budget Committees to receive a presentation by the Comptroller General</header> <subsection id="H7795C9587DDA480395C5DE84D98C60E3"><enum>(a)</enum><header>In general</header><text>Not later than 45 days (excluding Saturdays, Sundays, and holidays) after the date on which the Secretary of the Treasury submits to Congress the audited financial statement required under paragraph (1) of section 331(e) of title 31, United States Code, on a date agreed upon by the chairs of the Committees on the Budget of the House of Representatives and the Senate (hereafter referred to as the <quote>Budget Committees</quote>) and the Comptroller General of the United States, the Budget Committees shall hold a joint hearing (hereafter referred to as the <quote>Joint Hearing</quote>) to receive a presentation from the Comptroller General reviewing the findings of the audit required under paragraph (2) of such section and providing, with respect to the information included by the Secretary in the report accompanying such audited financial statement, an analysis of the financial position and condition of the Federal Government, including financial measures (such as the net operating cost, income, budget deficits, or budget surpluses) and sustainability measures (such as the long-term fiscal projection or social insurance projection) described in such report.</text></subsection> 
+<subsection id="H375BFDFCEEBD4AD79CAA089759AA17D8"><enum>(b)</enum><header>Presentation of statement in accordance with GAO strategies and means</header><text>The Comptroller General of the United States shall ensure that the presentation at the Joint Hearing is made in accordance with the Strategies and Means of the Government Accountability Office, so that the presentation will provide professional, objective, fact-based, nonpartisan, nonideological, fair, and balanced information to the members attending the Joint Hearing.</text></subsection> <subsection id="H4508A3BC579542F5B54BDCE3B792AD4E"><enum>(c)</enum><header>Rules applicable to joint hearing</header> <paragraph id="H7A65FFD1C0474668AA57DA4757C33580"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraphs (2) and (3), the Joint Hearing shall be subject to rules agreed to by the chairs of the Budget Committees.</text></paragraph> 
+<paragraph id="H4A341D40642649F1B554CF44C88D3C79"><enum>(2)</enum><header>Open hearing</header><text>The Joint Hearing shall be open to the public, including to radio, television, and still photography coverage.</text></paragraph> <paragraph id="HA3767FEDE4EA4DD6A8E0A9B61E5EB4DF"><enum>(3)</enum><header>Attendance</header><text>The Joint Hearing shall accommodate non-participatory attendance by any Senator and any Member of the House of Representatives, including any Delegate or Resident Commissioner to the Congress.</text></paragraph></subsection> 
+<subsection id="HF4476917BB1344B09983769A13E9001B"><enum>(d)</enum><header>Effective date</header><text>The requirement under subsection (a) shall apply with respect to any audited financial statement submitted on or after the date of the enactment of this resolution.</text></subsection></section> </resolution-body> <attestation><attestation-group><attestation-date date="20211103" chamber="House">Passed the House of Representatives November 3, 2021.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </resolution> 
+

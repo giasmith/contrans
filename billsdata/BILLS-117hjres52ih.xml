@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="HBD00E54D10E04D8FA143F344A678D106" public-private="public" resolution-type="house-joint" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 52 IH: Relating to a national emergency declared by the President on March 13, 2020.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-06-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 52</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210616">June 16, 2021</action-date><action-desc><sponsor name-id="G000565">Mr. Gosar</sponsor> submitted the following joint resolution; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Relating to a national emergency declared by the President on March 13, 2020.</official-title></form><resolution-body style="traditional" id="HA078A68550B74D02AC23FEFF2289677B"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H99DF21D9129642B1BD0891D7E4F7B626"><enum/><text>That, pursuant to section 202 of the National Emergencies Act (<external-xref legal-doc="usc" parsable-cite="usc/50/1622">50 U.S.C. 1622</external-xref>), the national emergency declared by the finding of the President on March 13, 2020, in Proclamation 9994 (85 Fed. Reg. 15337) is hereby terminated.</text></section></resolution-body></resolution> 
+

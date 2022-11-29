@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="H46D6151EA7C945D685DD47C9C9B348FF" public-private="public" resolution-type="constitutional-amendment" star-print="no-star-print" key="H"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HJ 5 IH: Proposing an amendment to the Constitution of the United States protecting the right of citizens to vote.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-01-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IA</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. J. RES. 5</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20210104">January 4, 2021</action-date><action-desc><sponsor name-id="C000754">Mr. Cooper</sponsor> submitted the following joint resolution; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>JOINT RESOLUTION</legis-type><official-title display="yes">Proposing an amendment to the Constitution of the United States protecting the right of citizens to vote.</official-title></form><resolution-body style="constitutional-amendment" id="H45CB5B6BF0B74BF7889C731475C64EF0"><section display-inline="yes-display-inline" section-type="undesignated-section" id="H4B89DE5322A14E8788EB566E69A53276"><text>That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within seven years after the date of its submission for ratification:</text><quoted-block display-inline="no-display-inline" id="H1CC002496F0E41BBB9B6B31F3DEBB511" style="traditional"><constitution-article id="H506CFA5378494425AACC31F9A517A292"><enum> —</enum><section display-inline="no-display-inline" id="H85054EAC505247EAB0EE162CA98F2C08" section-type="subsequent-section"><enum>1.</enum><text display-inline="yes-display-inline">The right of a citizen of the United States, who is 18 years of age or older, to vote, shall not be denied or abridged by the United States or by any State, unless, at the time of an election, such citizen is serving a sentence of imprisonment for a felony in a correctional facility.</text></section><section id="H189FD80350DB4D40B07C856A6DBF7733" section-type="subsequent-section"><enum>2.</enum><text display-inline="yes-display-inline">The Congress shall have power to enforce this article by appropriate legislation.</text></section></constitution-article><after-quoted-block>.</after-quoted-block></quoted-block></section></resolution-body></resolution> 
+

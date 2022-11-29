@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H94018CE98BE045D988E82BFD8D6B51C4" public-private="public" resolution-stage="Enrolled-Bill" resolution-type="house-concurrent" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HCON 64 ENR: Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1605. </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress> 
+<session display="yes">At the First Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the fourth day of January, two thousand and twenty-one</enrolled-dateline> 
+<legis-num>H. CON. RES. 64</legis-num> 
+<current-chamber display="no"></current-chamber>
+<action>
+<action-date date="20211215">December 15, 2021</action-date>
+<action-desc>Agreed to</action-desc>
+</action> 
+<legis-type>CONCURRENT RESOLUTION</legis-type> 
+<official-title display="no">Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1605. </official-title> 
+</form> 
+<resolution-body style="traditional" id="H52E6A557946E4B04AD3A3FF13799497A"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBA34DC1B239D4700AEBCA9658A667D27"><text display-inline="yes-display-inline">That in the enrollment of the bill S. 1605, the Secretary of the Senate shall make the following correction: Amend the long title so as to read: <quote>An Act to authorize appropriations for fiscal year 2022 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</quote>. </text></section> </resolution-body> <attestation><attestation-group><role>Clerk of the House of Representatives.</role></attestation-group><attestation-group><role>Secretary of the Senate.</role></attestation-group></attestation> </resolution> 
+

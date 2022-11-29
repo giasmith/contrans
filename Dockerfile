@@ -12,10 +12,15 @@ apt-get install -y nodejs
 
 RUN npm install -g dbdocs
 
+RUN jupyter lab build -y && jupyter lab clean -y
+
 RUN git clone https://github.com/giasmith/contrans
 
 WORKDIR /contrans
 
 EXPOSE 8888
 
+EXPOSE 8050
+
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--allow-root"]
+

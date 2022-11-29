@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-stage="Introduced-in-House" dms-id="HD6BEF17A181F4F34ACF9DF52D260D8AF" public-private="public" resolution-type="house-concurrent" star-print="no-star-print" key="H">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HCON 43 IH: Expressing the sense of Congress that all direct and indirect subsidies that benefit the production or export of sugar by all major sugar-producing and -consuming countries should be eliminated.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IV</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num display="yes">H. CON. RES. 43</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20210729">July 29, 2021</action-date>
+<action-desc><sponsor name-id="C001039">Mrs. Cammack</sponsor> (for herself, <cosponsor name-id="K000380">Mr. Kildee</cosponsor>, <cosponsor name-id="S001189">Mr. Austin Scott of Georgia</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="H001088">Mr. Hagedorn</cosponsor>, <cosponsor name-id="L000595">Ms. Letlow</cosponsor>, <cosponsor name-id="S001180">Mr. Schrader</cosponsor>, <cosponsor name-id="C001109">Ms. Cheney</cosponsor>, <cosponsor name-id="F000470">Mrs. Fischbach</cosponsor>, and <cosponsor name-id="D000619">Mr. Rodney Davis of Illinois</cosponsor>) submitted the following concurrent resolution; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>CONCURRENT RESOLUTION</legis-type>
+<official-title display="yes">Expressing the sense of Congress that all direct and indirect subsidies that benefit the production or export of sugar by all major sugar-producing and -consuming countries should be eliminated.</official-title>
+</form>
+<preamble>
+<whereas><text>Whereas every major sugar-producing and sugar-consuming country in the world maintains some form of direct or indirect subsidy to support its sugar growers, processors, or consumers;</text></whereas> <whereas><text>Whereas virtually all of the more than 100 countries that produce sugar maintain market-distorting subsidy programs, including—</text>
+<paragraph id="HF8D6F264C3444C2BA2BD96ABE76211FD"><enum>(1)</enum><text>the Government of Brazil which provides direct and indirect subsidies of at least $2,500,000,000 per year for programs to promote its sugar and ethanol industry and has increased subsidies in recent years in the form of preferential loans, debt forgiveness, and increased ethanol usage mandates;</text></paragraph> <paragraph id="H11CEA7944143497DBD90018AC156F420"><enum>(2)</enum><text>the Government of India which provides at least $1,700,000,000 per year in subsidy supports to prop up its inefficient sugar industry, including the provision of export subsidies in 2014, 2015, 2018, 2019, and 2020 in potential violation of World Trade Organization obligations;</text></paragraph>
+<paragraph id="HFE9B800BA26A4DB59BB9CB963C57FB39"><enum>(3)</enum><text>the Government of Thailand which more than tripled its sugar exports after 2004 by providing at least $1,300,000,000 in annual subsidies and government programs to its sugar industry and by maintaining domestic prices well above export prices;</text></paragraph> <paragraph id="H364AA5BE08E845768D513B75E9FD81BC"><enum>(4)</enum><text display-inline="yes-display-inline">the Governments of the European Union member states which have provided support with an estimated value of $685,000,000 per year to their sugar farmers;</text></paragraph>
+<paragraph id="H6259477ED4994733A70941AC622F0D9C"><enum>(5)</enum><text display-inline="yes-display-inline">the Government of Russia which transformed its country from one of the world’s largest net importers of sugar to a net exporter on the basis of government support estimated at an estimated value of $392,000,000 per year from 2010 to 2017; and </text></paragraph> <paragraph id="H03F86F0BD43A4977AB88EB9E42718EC2"><enum>(6)</enum><text>the Government of Mexico which has generously supported its sugarcane growers, and was found guilty in 2014 of injuring United States sugar producers by dumping subsidized sugar into the United States market;</text></paragraph></whereas>
+<whereas><text>Whereas the world sugar market is the most volatile commodity market in the world;</text></whereas> <whereas><text>Whereas many countries routinely dump surplus sugar on the world sugar market, at prices below domestic price levels and costs of production;</text></whereas>
+<whereas><text>Whereas the foregoing clauses provide ample evidence there is no undistorted, free market in sugar in the world today; and</text></whereas> <whereas><text>Whereas, if such a free market did exist, United States sugar farmers and processors could compete effectively in that market: Now, therefore, be it</text></whereas></preamble>
+<resolution-body style="OLC" id="HD1757D11123D41ABA111E562A363D745">
+<section display-inline="yes-display-inline" id="HB6A345F23410463681EE93C7C87AF57F" section-type="undesignated-section"><text>That it is the sense of Congress that—</text> <paragraph id="HE411B9D3E84D4253A71912E9BF7A4CCD"><enum>(1)</enum><text display-inline="yes-display-inline">the President should seek elimination of all direct and indirect subsidies benefiting the production or export of sugar by the government of—</text>
+<subparagraph id="H6C049B4350604A479BC3957B5199FE49"><enum>(A)</enum><text>each country that exported more than 200,000 metric tons of sugar in 2018, 2019, or 2020; and</text></subparagraph> <subparagraph id="H9551FBA2D6434EC2A894713993E483C4"><enum>(B)</enum><text>by any other country with which the United States has in effect a free trade agreement;</text></subparagraph></paragraph>
+<paragraph id="H0BEA4A2D162E4927BC227D23074C9248"><enum>(2)</enum><text display-inline="yes-display-inline">if the President determines that all such subsidies by all such countries have been eliminated, the President should submit a report to Congress providing detailed information about how each of the countries has eliminated such subsidies; and</text></paragraph> <paragraph id="H746B025F7D58427E8A06F3D5D688955B"><enum>(3)</enum><text>after submitting such a report, the President should propose to Congress legislation to implement United States sugar policy reforms.</text></paragraph></section>
+</resolution-body>
+</resolution> 
+
+
